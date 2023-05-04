@@ -12,6 +12,7 @@ Decimal point: Click the . button or type . on the keyboard to add a decimal poi
 Clear: Click the C button or press the Delete key to clear the input field.
 Delete: Click the ← button or press the Backspace key to delete the last character from the input field.
 Evaluate: Click the = button or press the Enter key to evaluate the expression entered in the input field.
+
 Usage
 Download or clone the repository.
 Install Python 3.5 or higher if you don't have it already.
