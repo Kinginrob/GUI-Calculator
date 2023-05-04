@@ -23,14 +23,14 @@ Evaluate: Click the = button or press the Enter key to evaluate the expression e
 
 Usage
 
-1.Download or clone the repository.
+1. Download or clone the repository.
 
-2.Install Python 3.5 or higher if you don't have it already.
+2. Install Python 3.5 or higher if you don't have it already.
 
-3.Install the Tkinter library if you don't have it already. In most cases, it should be included with your Python installation.
+3. Install the Tkinter library if you don't have it already. In most cases, it should be included with your Python installation.
 
-4.Open a terminal or command prompt and navigate to the project directory.
+4. Open a terminal or command prompt and navigate to the project directory.
 
-5.Run the GUI Calculator.py file using the command python GUI Calculator.py or by double-clicking on the file.
+5. Run the GUI Calculator.py file using the command python GUI Calculator.py or by double-clicking on the file.
 
-6.Use the calculator by clicking the buttons or typing on your keyboard.
+6. Use the calculator by clicking the buttons or typing on your keyboard.
