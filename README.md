@@ -5,21 +5,21 @@ This is a GUI calculator built using Python and the Tkinter library. It allows t
 
 Features
 
-Addition: Click the + button or type + on the keyboard to add two numbers.
+* Addition: Click the + button or type + on the keyboard to add two numbers.
 
-Subtraction: Click the - button or type - on the keyboard to subtract two numbers.
+* Subtraction: Click the - button or type - on the keyboard to subtract two numbers.
 
-Multiplication: Click the * button or type * on the keyboard to multiply two numbers.
+* Multiplication: Click the * button or type * on the keyboard to multiply two numbers.
 
-Division: Click the / button or type / on the keyboard to divide two numbers.
+* Division: Click the / button or type / on the keyboard to divide two numbers.
 
-Decimal point: Click the . button or type . on the keyboard to add a decimal point to a number.
+* Decimal point: Click the . button or type . on the keyboard to add a decimal point to a number.
 
-Clear: Click the C button or press the Delete key to clear the input field.
+* Clear: Click the C button or press the Delete key to clear the input field.
 
-Delete: Click the ← button or press the Backspace key to delete the last character from the input field.
+* Delete: Click the ← button or press the Backspace key to delete the last character from the input field.
 
-Evaluate: Click the = button or press the Enter key to evaluate the expression entered in the input field.
+* Evaluate: Click the = button or press the Enter key to evaluate the expression entered in the input field.
 
 Usage
 
