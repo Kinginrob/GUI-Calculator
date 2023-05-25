@@ -3,7 +3,7 @@ A Python script for a GUI Calculator
 
 This is a GUI calculator built using Python and the Tkinter library. It allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Features
+## Features
 
 * Addition: Click the + button or type + on the keyboard to add two numbers.
 
@@ -21,7 +21,7 @@ Features
 
 * Evaluate: Click the = button or press the Enter key to evaluate the expression entered in the input field.
 
-Usage
+## Usage
 
 1. Download or clone the repository.
 
