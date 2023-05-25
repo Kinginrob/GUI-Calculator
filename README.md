@@ -1,5 +1,4 @@
 # GUI-Calculator
-A Python script for a GUI Calculator
 
 This is a GUI calculator built using Python and the Tkinter library. It allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
